@@ -1,3 +1,3 @@
-GIt is a version control system
+GIt is a distirbuted version control system
 git is a free sofeware
-:
+
